@@ -1,7 +1,7 @@
 # Stupid-simple Cribl Data Generator Scripts
 Welcome to the repository of files that are meant to be ridiculously simple (and therefore easy to understand) and generate vaguely useful data of various types. 
 
-The scripts were originally written as part of the []"Cribl On Your Coffee Break"](https://www.youtube.com/watch?v=B8k1FLRYIvc&list=PLQemen2vk_As) series, but of course you're welcome to use it for any purpose you see fit. It's a simple script that generates random CPU values and sends them into a Cribl instance. 
+The scripts were originally written as part of the ["Cribl On Your Coffee Break"](https://www.youtube.com/watch?v=B8k1FLRYIvc&list=PLQemen2vk_As) series, but of course you're welcome to use it for any purpose you see fit. It's a simple script that generates random CPU values and sends them into a Cribl instance. 
 
 PLEASE USE COMMON SENSE! Don't connect code you don't know or trust (including THIS code) to a production instance of anything you care about.
 
